@@ -9,3 +9,7 @@ Answer: Data science could be applied to practically any field, but the first th
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines multiple branches into a single branch, and rebasing rewrites the commit history of the branches.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning about how I might be able to apply data science to my daily life and career. Also, I’m looking forward to learning more about data science because it was my dad’s career.
